@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="تطبيق ورشة فوري — عمل سير ذاتية متعددة — لدي م"
+        android:label="ورشة فوري للصيانة الميدانية - Warsha Now"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
         <activity
